@@ -9,6 +9,7 @@
 /data/tmp/
 /data/intermediate/
 /exports/
+dataset/
 
 # 🔐 Secrets
 .env
