@@ -11,3 +11,11 @@
 
 -- Step 3: DWH - Data Validation
 .read 03_data_validation_of_DWH.sql
+
+-- Step 4: Marts - Create Flat Mart Schema and job_postings flat table
+.read 04_create_flat_mart.sql
+
+-- Step 5: Marts - Data Validation of Flat Mart
+.read 05_data_validation_flat_mart.sql
+
+
