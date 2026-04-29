@@ -21,5 +21,11 @@
 -- Step 6: Marts - Skill Mart - Create Skills Mart Schema, Tables and Load Data Into
 .read 06_create_skill_mart.sql
 
--- Step 7: Daata Validation for Skill Mart Tables
+-- Step 7: Marts - Skill Mart - Data Validation for Skill Mart Tables
 .read 07_data_validation_skill_mart.sql
+
+-- Step 8: Marts - Priority Mart - Creating Tables for Priority Roles and Snapshot
+.read 08_create_priority_mart.sql
+
+-- Step 9 Marts - Priority Mart - Updating Priority roles and snapshot
+.read 09_update_priority_mart.sql
