@@ -1,6 +1,6 @@
 # Data Engineering Projects
 
-Hands-on projects to reinforce core data engineering concepts from the SQL for Data Engineering course.
+Hands-on projects to reinforce core data engineering concepts.
 
 # Projects
 
